@@ -94,7 +94,7 @@ Aplicativo Android desenvolvido em <strong>Kotlin</strong> para cálculo de IMC,
 
 Baixe o aplicativo Android:
 
-👉 [📥 Download APK](./releases/calculadora-imc-v1.apk)
+👉 [📥 Download APK](./releases/calculadora-imc-v1-release.apk)
 
 ---
 
