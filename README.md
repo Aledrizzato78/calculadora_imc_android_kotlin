@@ -1,72 +1,92 @@
-# 📱 Calculadora IMC Android
+<p align="center">
+  <img src="./assets/logo.png" width="180"/>
+</p>
 
-Aplicativo Android desenvolvido em **Kotlin** para cálculo de IMC (Índice de Massa Corporal), com interface moderna, responsiva e feedback visual dinâmico baseado no resultado do usuário.
+<h1 align="center">📱 Calculadora IMC Android</h1>
+
+<p align="center">
+Aplicativo Android desenvolvido em Kotlin com interface moderna, responsiva e feedback visual dinâmico baseado no resultado do IMC.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Kotlin-Android-purple?style=for-the-badge&logo=kotlin"/>
+  <img src="https://img.shields.io/badge/Platform-Android-green?style=for-the-badge&logo=android"/>
+  <img src="https://img.shields.io/badge/Status-Concluído-success?style=for-the-badge"/>
+</p>
 
 ---
 
-## 🚀 Funcionalidades
+# 🚀 Funcionalidades
 
 ✅ Cálculo automático de IMC
 ✅ Classificação por faixa de peso
 ✅ Alteração dinâmica de cores conforme resultado
-✅ Interface responsiva
+✅ Interface moderna e responsiva
 ✅ Controle de altura com SeekBar
 ✅ Limpeza rápida dos campos
 ✅ APK disponível para download
+✅ Compatível com dispositivos Android
 
 ---
 
-## 🛠️ Tecnologias utilizadas
+# 🛠️ Tecnologias utilizadas
 
 * Kotlin
 * Android Studio
 * ConstraintLayout
 * Material Design
 * Gradle
+* XML Layouts
 
 ---
 
-## 📸 Screenshots
+# 📸 Screenshots
 
-### Tela inicial
+## 📱 Aplicativo instalado no Android
+
+![App Instalado](./screenshots/app-instalado.jpeg)
+
+---
+
+## 🟢 Tela inicial
 
 ![Tela Inicial](./screenshots/tela-inicial.jpeg)
 
 ---
 
-### Peso ideal
+## 🟩 Peso ideal
 
 ![Peso Ideal](./screenshots/peso-ideal.jpeg)
 
 ---
 
-### Sobrepeso
+## 🟧 Sobrepeso
 
 ![Sobrepeso](./screenshots/sobrepeso.jpeg)
 
 ---
 
-### Abaixo do peso
+## 🟨 Abaixo do peso
 
 ![Abaixo do Peso](./screenshots/abaixo-peso.jpeg)
 
 ---
 
-### Obesidade Grau III
+## 🟥 Obesidade Grau III
 
 ![Obesidade Grau III](./screenshots/obesidade-grau3.jpeg)
 
 ---
 
-## 📦 Download APK
+# 📦 Download APK
 
 Baixe o aplicativo Android:
 
-[📥 Download APK](./releases/calculadora-imc-v1.apk)
+👉 [📥 Download APK](./releases/calculadora-imc-v1.apk)
 
 ---
 
-## ▶️ Como executar o projeto
+# ▶️ Como executar o projeto
 
 Clone o repositório:
 
@@ -74,11 +94,29 @@ Clone o repositório:
 git clone https://github.com/Aledrizzato78/calculadora-imc-android-kotlin.git
 ```
 
-Abra no Android Studio e execute em um dispositivo físico ou emulador Android.
+Abra o projeto no Android Studio e execute em:
+
+* dispositivo físico Android
+* emulador Android
 
 ---
 
-## 🎯 Objetivos do projeto
+# 📂 Estrutura do projeto
+
+```txt
+CalculadoraIMC/
+ ├── app/
+ ├── assets/
+ ├── releases/
+ ├── screenshots/
+ ├── gradle/
+ ├── build.gradle.kts
+ └── README.md
+```
+
+---
+
+# 🎯 Objetivos do projeto
 
 Este projeto foi desenvolvido com foco em:
 
@@ -86,26 +124,35 @@ Este projeto foi desenvolvido com foco em:
 * evolução em Kotlin
 * manipulação de interface gráfica
 * gerenciamento de estados visuais
-* construção de portfólio mobile
+* desenvolvimento mobile responsivo
+* construção de portfólio Android
 
 ---
 
-## 🔥 Melhorias futuras
+# 🔥 Melhorias futuras
 
 * Histórico de cálculos
 * Dark Mode
-* Internacionalização
 * Persistência local com Room
+* Internacionalização
 * Animações e transições
+* Integração com API
 * Publicação na Play Store
 
 ---
 
-## 👨‍💻 Autor
+# 👨‍💻 Autor
 
-Alexandre Drummond Rizzato
+## Alexandre Drummond Rizzato
 
-* GitHub: https://github.com/Aledrizzato78
-* LinkedIn: https://www.linkedin.com/in/alexandre-drummond-rizzato-524a3724
+🔗 GitHub:
+https://github.com/Aledrizzato78
+
+🔗 LinkedIn:
+https://www.linkedin.com/in/alexandre-drummond-rizzato-524a3724
 
 ---
+
+<p align="center">
+Desenvolvido com Kotlin ☕ e Android 📱
+</p>
