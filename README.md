@@ -45,7 +45,7 @@ Aplicativo Android desenvolvido em <strong>Kotlin</strong> para cálculo de IMC,
 ### 📱 Aplicativo instalado no Android
 
 <p align="center">
-  <img src="./screenshots/app-instalado.jpeg" width="250" alt="Aplicativo instalado no Android"/>
+  <img src="./screenshots/icone.jpeg" width="250" alt="Ícone da aplicação IMC"/>
 </p>
 
 ---
