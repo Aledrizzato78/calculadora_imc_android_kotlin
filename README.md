@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="./assets/logo.png" width="180"/>
+  <img src="./assets/logo.png" width="180" alt="Logo Calculadora IMC"/>
 </p>
 
 <h1 align="center">📱 Calculadora IMC Android</h1>
 
 <p align="center">
-Aplicativo Android desenvolvido em Kotlin com interface moderna, responsiva e feedback visual dinâmico baseado no resultado do IMC.
+Aplicativo Android desenvolvido em <strong>Kotlin</strong> para cálculo de IMC, com interface moderna, responsiva e feedback visual dinâmico baseado no resultado do usuário.
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@ Aplicativo Android desenvolvido em Kotlin com interface moderna, responsiva e fe
 
 ---
 
-# 🚀 Funcionalidades
+## 🚀 Funcionalidades
 
 ✅ Cálculo automático de IMC
 ✅ Classificação por faixa de peso
@@ -25,11 +25,11 @@ Aplicativo Android desenvolvido em Kotlin com interface moderna, responsiva e fe
 ✅ Controle de altura com SeekBar
 ✅ Limpeza rápida dos campos
 ✅ APK disponível para download
-✅ Compatível com dispositivos Android
+✅ Testado em dispositivo Android real
 
 ---
 
-# 🛠️ Tecnologias utilizadas
+## 🛠️ Tecnologias utilizadas
 
 * Kotlin
 * Android Studio
@@ -40,45 +40,57 @@ Aplicativo Android desenvolvido em Kotlin com interface moderna, responsiva e fe
 
 ---
 
-# 📸 Screenshots
+## 📸 Screenshots
 
-## 📱 Aplicativo instalado no Android
+### 📱 Aplicativo instalado no Android
 
-![App Instalado](./screenshots/app-instalado.jpeg)
-
----
-
-## 🟢 Tela inicial
-
-![Tela Inicial](./screenshots/tela-inicial.jpeg)
+<p align="center">
+  <img src="./screenshots/app-instalado.jpeg" width="250" alt="Aplicativo instalado no Android"/>
+</p>
 
 ---
 
-## 🟩 Peso ideal
+### 🟢 Tela inicial
 
-![Peso Ideal](./screenshots/peso-ideal.jpeg)
-
----
-
-## 🟧 Sobrepeso
-
-![Sobrepeso](./screenshots/sobrepeso.jpeg)
+<p align="center">
+  <img src="./screenshots/tela-inicial.jpeg" width="250" alt="Tela inicial da Calculadora IMC"/>
+</p>
 
 ---
 
-## 🟨 Abaixo do peso
+### 🟩 Peso ideal
 
-![Abaixo do Peso](./screenshots/abaixo-peso.jpeg)
-
----
-
-## 🟥 Obesidade Grau III
-
-![Obesidade Grau III](./screenshots/obesidade-grau3.jpeg)
+<p align="center">
+  <img src="./screenshots/peso-ideal.jpeg" width="250" alt="Resultado Peso Ideal"/>
+</p>
 
 ---
 
-# 📦 Download APK
+### 🟧 Sobrepeso
+
+<p align="center">
+  <img src="./screenshots/sobrepeso.jpeg" width="250" alt="Resultado Sobrepeso"/>
+</p>
+
+---
+
+### 🟨 Abaixo do peso
+
+<p align="center">
+  <img src="./screenshots/abaixo-peso.jpeg" width="250" alt="Resultado Abaixo do Peso"/>
+</p>
+
+---
+
+### 🟥 Obesidade Grau III
+
+<p align="center">
+  <img src="./screenshots/obesidade-grau3.jpeg" width="250" alt="Resultado Obesidade Grau III"/>
+</p>
+
+---
+
+## 📦 Download APK
 
 Baixe o aplicativo Android:
 
@@ -86,22 +98,22 @@ Baixe o aplicativo Android:
 
 ---
 
-# ▶️ Como executar o projeto
+## ▶️ Como executar o projeto
 
 Clone o repositório:
 
 ```bash
-git clone https://github.com/Aledrizzato78/calculadora-imc-android-kotlin.git
+git clone https://github.com/Aledrizzato78/calculadora_imc_android_kotlin.git
 ```
 
-Abra o projeto no Android Studio e execute em:
+Abra o projeto no **Android Studio** e execute em:
 
 * dispositivo físico Android
 * emulador Android
 
 ---
 
-# 📂 Estrutura do projeto
+## 📂 Estrutura do projeto
 
 ```txt
 CalculadoraIMC/
@@ -111,12 +123,13 @@ CalculadoraIMC/
  ├── screenshots/
  ├── gradle/
  ├── build.gradle.kts
+ ├── settings.gradle.kts
  └── README.md
 ```
 
 ---
 
-# 🎯 Objetivos do projeto
+## 🎯 Objetivos do projeto
 
 Este projeto foi desenvolvido com foco em:
 
@@ -126,10 +139,11 @@ Este projeto foi desenvolvido com foco em:
 * gerenciamento de estados visuais
 * desenvolvimento mobile responsivo
 * construção de portfólio Android
+* disponibilização de APK para instalação externa
 
 ---
 
-# 🔥 Melhorias futuras
+## 🔥 Melhorias futuras
 
 * Histórico de cálculos
 * Dark Mode
@@ -141,9 +155,9 @@ Este projeto foi desenvolvido com foco em:
 
 ---
 
-# 👨‍💻 Autor
+## 👨‍💻 Autor
 
-## Alexandre Drummond Rizzato
+### Alexandre Drummond Rizzato
 
 🔗 GitHub:
 https://github.com/Aledrizzato78
