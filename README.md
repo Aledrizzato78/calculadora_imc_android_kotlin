@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/logo.png" width="180" alt="Logo Calculadora IMC"/>
+  <img src="./logo.png" width="180"/>
 </p>
 
 <h1 align="center">📱 Calculadora IMC Android</h1>
